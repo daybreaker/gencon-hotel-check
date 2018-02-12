@@ -14,7 +14,7 @@ from urllib2 import HTTPError, Request, URLError, urlopen
 import urllib, urllib2
 
 firstDay, lastDay, startDay = datetime(2018, 7, 30), datetime(2018, 8, 8), datetime(2018, 8, 2)
-eventUrl = 'https://aws.passkey.com/event/48980067/owner/10909638/rooms/select'
+eventUrl = 'https://aws.passkey.com/event/49547714/owner/10909638/rooms/select'
 
 distanceUnits = {
 	1: 'blocks',
